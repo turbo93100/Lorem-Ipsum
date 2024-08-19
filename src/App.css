@@ -1,0 +1,23 @@
+h1 {
+  width: 90px;
+  height: 30px;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.mainDiv {
+  width: 619px;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+p {
+  display: flex;
+  background-color: lightgrey;
+  width: 273px;
+  height: 160px;
+  text-align: left;
+  font-size: 20px;
+  line-height: 20px;
+}
