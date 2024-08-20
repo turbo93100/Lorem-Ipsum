@@ -16,7 +16,7 @@ const App = () => {
       >
         Lorem
       </h1>
-      <p>
+      <p className="paragraph">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex nihil earum
         corporis, minima libero voluptatum adipisci inventore maiores
         praesentium corrupti. Libero eos delectus sed atque minima molestiae
@@ -34,7 +34,7 @@ const App = () => {
         Ipsum
       </h1>
 
-      <p>
+      <p className="paragraph">
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. A sapiente
         natus sunt quae dignissimos dicta, ipsum voluptates maiores porro quas
         odit pariatur? Doloribus molestiae tempora consectetur adipisci.
